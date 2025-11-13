@@ -15,6 +15,7 @@ int main()
     printf("Average Grade: %f \n", ave_grade);
     printf("Float with Specific no. of deciman %.2f", ave_grade);
     printf("Sample changes");
+    printf("Sample cahnges for dev branch");
     return 0;
 }
 

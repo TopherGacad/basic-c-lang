@@ -14,6 +14,7 @@ int main()
     printf("Initial letter of the name: %c \n", initial_name);
     printf("Average Grade: %f \n", ave_grade);
     printf("Float with Specific no. of deciman %.2f", ave_grade);
+    printf("Sample changes");
     return 0;
 }
 
